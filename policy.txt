@@ -1,0 +1,47 @@
+Mini Sudoku  Privacy Policy
+Last Updated: September 8, 2025
+This Privacy Policy describes how Mini Sudoku App, developed by devgames490, collects, uses, and shares information when you use our mobile application. We are committed to protecting your privacy. The App includes advertisements provided by third-party networks, which may collect certain data as described below.
+1. Information We Collect
+
+From the App Directly: The core App does not collect personal information such as your name, email address, or phone number. We do not access sensitive device permissions like contacts, camera, or microphone .
+Non-Personal Information: The App may collect anonymized device information (e.g., device type, OS version, crash reports) to improve performance and fix bugs.
+From Advertisements: To display ads, we use third-party services like Google AdMob. These services may collect:
+
+Device identifiers (e.g., Android Advertising ID or AAID).
+Approximate location (derived from IP address or device settings, if you grant permission).
+App usage data (e.g., how long you use the App, interactions with ads).
+Other non-personal data like device model, language, and network type.
+This data is used for personalized advertising and analytics.
+
+
+2. How We Use Information
+
+Core App data is used solely for functionality, bug fixing, and compatibility.
+Ad-related data is used by third-party providers to serve relevant ads, measure ad performance, and prevent fraud. We do not use this data for our own marketing outside of ads.
+
+3. Sharing Information
+
+We do not share your personal information with third parties except as needed for ads.
+Ad providers like Google AdMob may share collected data with their partners for advertising purposes. For details on Google's practices, see their privacy policy at [https://policies.google.com/privacy].
+We may share anonymized data with service providers for app hosting or analytics, but only under strict confidentiality.
+
+4. Third-Party Services
+The App integrates with Google AdMob for advertisements. AdMob's data practices are governed by Google's policies. They may use cookies or similar technologies to track ad interactions across apps and sites. If we add other services in the future, this policy will be updated.
+5. User Choices and Opt-Outs
+
+You can opt out of personalized ads by resetting your Android Advertising ID in your device settings (Settings > Google > Ads > Reset advertising ID) or opting out via Google's settings at [https://adssettings.google.com].
+Note that opting out may result in less relevant ads, but ads will still appear.
+For location data, manage permissions in your device settings.
+
+6. Data Security and Retention
+We implement reasonable security measures to protect data. Ad-related data is retained by third parties as per their policies (typically for ad optimization needs). We retain core App data only as long as necessary and delete it when no longer needed.
+7. Children's Privacy
+The App is not directed at children under 13, and we do not knowingly collect data from them. AdMob complies with COPPA; if you're under 13, do not use the App. If we discover child data collection, it will be deleted.
+8. International Data Transfers
+Data may be transferred to servers outside your country (e.g., by Google). We ensure appropriate safeguards are in place.
+9. Your Rights
+Depending on your location (e.g., under GDPR or CCPA), you may have rights to access, delete, or correct data. Contact us or the ad provider to exercise these. Since we collect limited data, most requests can be handled via device settings.
+10. Changes to This Policy
+We may update this policy for new features or legal changes. Updates will be posted here with a new "Last Updated" date. Continued use constitutes acceptance.
+11. Contact Us
+Questions? Email us at devgames490@gmail.com
